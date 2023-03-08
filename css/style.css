@@ -203,7 +203,17 @@ body {
         font-size: 20px;
         color: #fff;
         text-decoration: none;
+        transition: 0.4s;
         margin: 0;
+}
+
+.footer__title:hover{
+        opacity: 0.8;
+}
+
+
+.footer__title:active{
+        opacity: 0.6;
 }
 
 /* footer end */
